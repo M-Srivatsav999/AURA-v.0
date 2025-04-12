@@ -106,4 +106,4 @@ face_recognition
 ---
 
 ## About the Creator
-Mukka Srivatsav, born November 30, 2005, is a second-year BTech student in AI and ML at Sphoorthy Engineering College.
+MUKKA SRIVATSAV is the creator of this AI. 
