@@ -2,7 +2,7 @@
 AuraAI: An advanced, open-source virtual assistant with voice, vision, and creative capabilities. Built with free tools, featuring real-time object detection, face recognition, image generation and many..
 # AuraAI - Augmented Utility Reality Assistant
 
-**AuraAI** is a sophisticated voice-driven virtual assistant created by Mukka Srivatsav, a second-year BTech student in Artificial Intelligence and Machine Learning at Sphoorthy Engineering College. Built entirely with free tools, it showcases advanced AI capabilities including computer vision, natural language processing, and creative utilities. This project is shared for viewing purposes only—copying, modification, or distribution is strictly prohibited.
+**AuraAI** is a sophisticated voice-driven virtual assistant created by Mukka Srivatsav . Built entirely with free tools, it showcases advanced AI capabilities including computer vision, natural language processing, and creative utilities. This project is shared for viewing purposes only—copying, modification, or distribution is strictly prohibited.
 
 Inspired by fictional assistants like JARVIS, AuraAI (Augmented Utility Reality Assistant) offers a glimpse into futuristic AI, designed as a personal project to explore cutting-edge technology.
 
